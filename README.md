@@ -1,6 +1,6 @@
 # Source-Filter Model Implementation in MATLAB
 
-This repository contains the MATLAB implementation of the Source-Filter Model, developed as part of my final paper on the "Implementation and Analysis of the Source-Filter Method for the Identification of Musical Instruments in Polyphonic Music." The code is based on the work of Heittola et al. [1]. The original function "midi2hz,m" can be found in [2]. 
+This repository contains the MATLAB implementation of the Source-Filter Model, developed as part of my final paper on the "Implementation and Analysis of the Source-Filter Method for the Identification of Musical Instruments in Polyphonic Music." The code is based on the work of Heittola et al. [1]. The original function "midi2hz.m" can be found in [2]. 
 
 ## Usage
 
