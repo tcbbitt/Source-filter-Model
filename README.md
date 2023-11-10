@@ -14,7 +14,7 @@ To use the Source-Filter Model implementation, follow these steps:
 
 Feel free to customize the code according to your specific requirements.
 
-## Reference
+## References
 
 [1] HEITTOLA, T.; KLAPURI, A.; VIRTANEN, T. Musical instrument recognition in polyphonic audio using source-filter model for sound separation. In: ISMIR. [S.l.: s.n.], 2009. p. 327–332.<br />
 [2] TOIVIAINEN, P.; EEROLA, T. MIDI toolbox 1.1. [S.l.]: GitHub, 2016. [GitHub Repository](https://github.com/miditoolbox/)<br />
